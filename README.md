@@ -1,4 +1,4 @@
-# Data Analysis
+# Personal Projects
 
 ## Project-1 
 
